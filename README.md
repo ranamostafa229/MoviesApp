@@ -21,8 +21,7 @@ Users can also view the details, ratings, and cast of each movie or series. The 
 
 ![Screenshot (1349)](https://github.com/ranamostafa229/real_estate_app/assets/57458722/5ae2ae9f-08ba-4b6a-ba48-724285ec1503)
 
-#### - When you click on a movie or series, you will see a detailed page with more information, such as the genre, plot, actors, and ratings from various sources. You can also watch the trailer from youtube
-You can share the detailed page in different social media.
+#### - When you click on a movie or series, you will see a detailed page with more information, such as the genre, plot, actors, and ratings from various sources. You can also watch the trailer from youtube and share the detailed page in different social media.
 
 ![Screenshot of the detail page](https://github.com/ranamostafa229/real_estate_app/assets/57458722/080e2d51-ac8a-4a19-b0a3-08328799100d)
 
