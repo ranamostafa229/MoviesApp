@@ -1,0 +1,17 @@
+* {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+.app {
+  min-height: 100vh;
+  /* background-color: #39445a; */
+  /* background-image: url("movie_bg.jpg"); */
+  color: white;
+  padding-top: 130px;
+  padding-bottom: 70px;
+}
+@media (max-width: 700px) {
+  .app {
+    padding-top: 70px;
+  }
+}
